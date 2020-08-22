@@ -2,7 +2,7 @@
 
 本实验，需要已经搭建好kubernetes集群和harbor服务。
 
-首先克隆本项目：git clone  https://github.com/donxan/k8s_lnmp_discuzx.git
+首先克隆本项目：git clone  https://github.com/yulibo/k8s_lnmp_discuzx.git
 
 #### 下载镜像
 ```
